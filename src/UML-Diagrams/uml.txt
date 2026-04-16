@@ -1,0 +1,16 @@
+UMl Diagaram
+
+There are Two Type of Diagram
+
+ 1)Structural (Static) 7 Ul Diagaram But we study Class Diagram
+  2) Behaviourl (Dianamic) 7 Ul Diagram But we Study only Sequence Diagram
+
+
+
+    1 ) Class Diagram
+
+          1: Class Structure
+          2: Association Structure
+
+
+
