@@ -11,5 +11,9 @@ public class BurgerClient {
         Burger ans = burgerFactory.creteBurger(type);
 
         ans.prepare();
+
+        /**
+         * Simple Factory Method Deside which concreate object shuld return based on input
+         */
     }
 }
